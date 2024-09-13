@@ -1,0 +1,44 @@
+body{
+    padding: 10px;
+}
+.image-index{
+    width: 30px;
+    height: 30px;
+    border-radius: 20px;
+}
+.mini-conteneur, .div-btn{
+    width: 80%;
+    margin: 0 auto;
+}
+form{
+    width: 60%;
+    margin: 0 auto;
+}
+.info{
+    display: block;
+}
+.photo-show{
+    float: left;
+    margin-right: 20px;
+    border-radius: 130px;
+    width: 240px;
+    height: 240px;
+    margin-top: 50px;
+}
+.edit{
+    float: left;
+    margin-right: 5px;
+}
+a{
+    text-decoration: none;
+}
+li{
+    list-style-type: none;
+}
+section{
+    padding: 10px;
+    width: 90%;
+    height: 100%;
+    margin: 0 auto;
+    background-color: rgb(233,233,233);
+}
